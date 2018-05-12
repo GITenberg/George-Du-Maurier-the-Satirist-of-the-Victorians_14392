@@ -1,0 +1,30 @@
+_repo: George-Du-Maurier-the-Satirist-of-the-Victorians_14392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, T. Martin
+    alias: Wood, Thomas Martin
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '5498'
+    url: http://www.gutenberg.org/2009/agents/5498
+description: Cover -- Table of Contents.
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14392'
+  lccn: '13025028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Du Maurier, George, 1834-1896'
+- !lcc 'PR'
+title: George Du Maurier, the Satirist of the Victorians
+url: http://www.gutenberg.org/ebooks/14392
