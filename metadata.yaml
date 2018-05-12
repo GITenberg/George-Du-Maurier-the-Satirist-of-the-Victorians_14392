@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5498'
     url: http://www.gutenberg.org/2009/agents/5498
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14392#George-Du-Maurier-the-Satirist-of-the-Victorians
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2004-12-20'
 gutenberg_type: Text
